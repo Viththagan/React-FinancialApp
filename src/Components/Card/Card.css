@@ -1,0 +1,15 @@
+.product-card {
+    width: 300px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .product-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
